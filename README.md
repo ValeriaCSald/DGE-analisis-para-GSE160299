@@ -1,9 +1,3 @@
-#´---
-#´Title:"Análisis de expresión diferencial génica GSE150299"
-#´Author: "Valeria Contreras Saldivar"
-#´Date:"Cómputo científico, 26P, UAM-C"
-#´---
-
 # GSE160299 — Bulk RNA-seq DESeq2 Analysis
 
 > **Dataset:** [GSE160299](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160299)  
